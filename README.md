@@ -55,10 +55,5 @@ To develop a website to display details about the places around my house.
 ### PLACE DESCRIPTION
 ![ex 4(3)](https://user-images.githubusercontent.com/119477890/214836517-b2258a4a-17d9-44f3-bfb4-bfc3af8c3f9e.png)
 
-
-### Validation Report
-![Screenshot 2023-01-26 183039](https://user-images.githubusercontent.com/119477890/214842054-45c0cb81-cdc9-4948-88a2-664f1d54c8b4.png)
-
-
 ## Result:
 Image mapping website created and executed successfully
